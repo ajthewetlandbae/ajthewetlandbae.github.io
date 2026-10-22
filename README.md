@@ -29,10 +29,4 @@ No need to upload content twice: **you can edit `content.js` and upload photos d
 ## Editing text and colors
 Change written paragraphs in `index.html`. All design colors are near the top of `styles.css` under `:root`. If you want professional editing support later, share the updated site ZIP or point to your public repository.
 
-## Before sharing publicly
-- Confirm academic degree status and dates. This version says Ph.D. conferral **expected December 2026**, and refers to AJ, not Dr. AJ.
-- Review manuscript status and replace placeholders with real, accurate links.
-- Do not upload your home address or personal email within the public CV.
-- Confirm photo permissions and captions before upload.
-- The three provided logos are supplied as JPGs: replace with higher resolution / transparent images when available.
-- Google Fonts are loaded externally; the fallback is Georgia and standard system sans-serif.
+
