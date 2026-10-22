@@ -10,12 +10,98 @@ const SITE_CONTENT = {
   linkedin: '', // Example: 'https://www.linkedin.com/in/your-profile/'
   github: 'https://github.com/ajthewetlandbae', // change if your username differs
   email: '', // OPTIONAL: professional email, or leave blank
-  gallery: [
-    { category:'field', heading:'In the Field', caption:'Wetland sampling, hydrologic monitoring, and behind-the-scenes research.', image:'', alt:'Fieldwork photograph' },
-    { category:'conference', heading:'Conferences & Research', caption:'Presentations, professional connections, and sharing scientific findings.', image:'', alt:'Conference photograph' },
-    { category:'outreach', heading:'Education & Outreach', caption:'Engaging students and communities through hands-on science and conversations.', image:'', alt:'Science outreach photograph' },
-    { category:'beyond', heading:'Beyond the Field', caption:'Museum experiences, representation in science, and other moments worth sharing.', image:'', alt:'Museum or community photograph' }
-  ],
+  
+gallery: [
+  // FIELDWORK
+  {
+    category: 'field',
+    heading: 'NWCA Fieldwork',
+    caption: 'Wetland research and field sampling with the National Wetland Condition Assessment.',
+    image: 'photos/AJ_NWCA_1.JPG',
+    alt: 'AJ conducting wetland fieldwork'
+  },
+  {
+    category: 'field',
+    heading: 'More from the NWCA',
+    caption: 'Behind the scenes of wetland field research.',
+    image: 'photos/Aj_NWCA_2.JPG',
+    alt: 'AJ in the field during wetland research'
+  },
+  {
+    category: 'field',
+    heading: 'Sweetwater Wetlands',
+    caption: 'Exploring wetland ecosystems at Sweetwater Wetlands.',
+    image: 'photos/AJ_Sweetwater.JPG',
+    alt: 'AJ at Sweetwater Wetlands'
+  },
+  {
+    category: 'field',
+    heading: 'Salt Marsh Fieldwork',
+    caption: 'Field experiences in coastal wetland ecosystems.',
+    image: 'photos/AJ_saltmarsh.jpg',
+    alt: 'AJ in a salt marsh'
+  },
+  {
+    category: 'field',
+    heading: 'Coastal Wetlands',
+    caption: 'More moments from the salt marsh.',
+    image: 'photos/aj_saltmarsh2.JPG',
+    alt: 'AJ conducting coastal wetland fieldwork'
+  },
+  {
+    category: 'field',
+    heading: 'Wetland Fieldwork',
+    caption: 'Exploring wetland environments and their unique characteristics.',
+    image: 'photos/WetlandPhoto (1).jpg',
+    alt: 'Wetland fieldwork photograph'
+  },
+  {
+    category: 'field',
+    heading: 'Wetland Research',
+    caption: 'A closer look at wetland ecosystems.',
+    image: 'photos/WetlandPhoto (2).jpg',
+    alt: 'Wetland research photograph'
+  },
+
+  // CONFERENCES
+  {
+    category: 'conference',
+    heading: 'Research Conferences',
+    caption: 'Presenting research and connecting with scientists.',
+    image: 'photos/Conferencephoto.jpg',
+    alt: 'AJ at a research conference'
+  },
+
+  // EDUCATION AND OUTREACH
+  {
+    category: 'outreach',
+    heading: 'Rollins College Panel',
+    caption: 'Sharing experiences and perspectives through a science outreach panel at Rollins College.',
+    image: 'photos/rollinscollege.jpg',
+    alt: 'AJ participating in a Rollins College panel'
+  },
+  {
+    category: 'outreach',
+    heading: 'CPET Outreach',
+    caption: 'Supporting science education and engaging with students.',
+    image: 'photos/CPETPhoto.jpg',
+    alt: 'AJ participating in STEM outreach'
+  },
+  {
+    category: 'outreach',
+    heading: 'Water Institute Ambassador',
+    caption: 'Connecting with others through the University of Florida Water Institute.',
+    image: 'photos/Wlambassador.jpg',
+    alt: 'AJ at a Water Institute event'
+  },
+  {
+    category: 'outreach',
+    heading: 'Science Communication',
+    caption: 'Sharing science and connecting with different audiences.',
+    image: 'photos/sciencecomphoto.png',
+    alt: 'AJ participating in science communication'
+  }
+],
   videos: [
     { heading:'Wetland Wisdom Lectures', label:'CORE LECTURES', description:'Structured lessons on wetland foundations, hydrology, soils, and biogeochemistry.', video:'' },
     { heading:'Field Fridays', label:'FIELD VIDEOS', description:'Field-based videos showing wetland science and research in practice.', video:'' },
