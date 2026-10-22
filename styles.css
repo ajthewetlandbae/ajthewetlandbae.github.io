@@ -54,3 +54,36 @@
     height: 105px;
   }
 }
+
+/* NATIONAL RESEARCH PHOTO */
+.project-image.national {
+  background-image:
+    linear-gradient(
+      rgba(18, 35, 28, 0.20),
+      rgba(18, 35, 28, 0.35)
+    ),
+    url("photos/WetlandPhoto (1).jpg");
+
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+/* BRADFORD FOREST PHOTO */
+.project-image.bradford {
+  background-image:
+    linear-gradient(
+      rgba(18, 35, 28, 0.20),
+      rgba(18, 35, 28, 0.35)
+    ),
+    url("photos/WetlandPhoto (2).jpg");
+
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+/* REMOVE THE OLD DECORATIVE SHAPES */
+.project-image .abstract-graphic {
+  display: none;
+}
