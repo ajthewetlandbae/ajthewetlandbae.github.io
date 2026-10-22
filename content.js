@@ -3,7 +3,7 @@
    Upload your images into /photos and set their paths below.
    Video embeds accept YouTube or Vimeo URLs; no platform is required today. */
 const SITE_CONTENT = {
-  portrait: '', // Example: 'photos/aj-fieldwork.jpg'
+  portrait: 'photos/Alexis-jackson_headshot.webp', // Example: 'photos/aj-fieldwork.jpg'
   cv: '',       // Example: 'assets/AJ_Public_CV.pdf' (remove address/personal email first)
   paper: '',    // URL to actual Ecological Indicators manuscript/preprint
   dataset: '',  // URL to public Bradford dataset on HydroShare
@@ -154,7 +154,5 @@ media: [
     detail: '2021 · University of Florida · Conservation and research',
     url: 'https://cfw.essie.ufl.edu/2021/08/11/masters-student-alexis-aj-jackson-featured-in-latest-issue-of-heartland-living-magazine/'
   }
-],
-
   ]
 };
