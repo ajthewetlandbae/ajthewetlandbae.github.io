@@ -5,7 +5,7 @@
 const SITE_CONTENT = {
   portrait: 'photos/Alexis-jackson_headshot.webp', // Example: 'photos/aj-fieldwork.jpg'
   cv: '',       // Example: 'assets/AJ_Public_CV.pdf' (remove address/personal email first)
-  paper: '',    // URL to actual Ecological Indicators manuscript/preprint
+  paper: 'https://doi.org/10.2139/ssrn.7498816',    // URL to actual Ecological Indicators manuscript/preprint
   dataset: '',  // URL to public Bradford dataset on HydroShare
   linkedin: '', // Example: 'https://www.linkedin.com/in/your-profile/'
   github: 'https://github.com/ajthewetlandbae', // change if your username differs
