@@ -105,7 +105,7 @@ gallery: [
 ],
   videos: [
     { heading:'Wetland Wisdom Lectures', label:'CORE LECTURES', description:'Structured lessons on wetland foundations, hydrology, soils, and biogeochemistry.', video:'https://player.vimeo.com/video/1238557670?h=b5fbb3529e' },
-    { heading:'Field Fridays — Episode 01', label:'FIELD VIDEOS', description:'Field-based videos showing wetland science and research in practice.', video:'https://vimeo.com/1239635324' },
+    { heading:'Field Fridays — Episode 01', label:'FIELD VIDEOS', description:'Field-based videos showing wetland science and research in practice.', video:'https://player.vimeo.com/video/1239635324' },
     { heading:'More to Explore', label:'ADDITIONAL VIDEOS', description:'Other videos, demonstrations, and educational resources.', video:'' }
   ],
   
