@@ -104,8 +104,8 @@ gallery: [
   }
 ],
   videos: [
-    { heading:'Wetland Wisdom Lectures', label:'CORE LECTURES', description:'Structured lessons on wetland foundations, hydrology, soils, and biogeochemistry.', video:'<iframe title="vimeo-player" src="https://player.vimeo.com/video/1238557670?h=b5fbb3529e" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>' },
-    { heading:'Field Fridays', label:'FIELD VIDEOS', description:'Field-based videos showing wetland science and research in practice.', video:'' },
+    { heading:'Wetland Wisdom Lectures', label:'CORE LECTURES', description:'Structured lessons on wetland foundations, hydrology, soils, and biogeochemistry.', video:'https://player.vimeo.com/video/1238557670?h=b5fbb3529e' },
+    { heading:'Field Fridays', label:'FIELD VIDEOS', description:'Field-based videos showing my wetland science and research in practice.', video:'https://vimeo.com/1239635324' },
     { heading:'More to Explore', label:'ADDITIONAL VIDEOS', description:'Other videos, demonstrations, and educational resources.', video:'' }
   ],
   
@@ -158,16 +158,6 @@ media: [
   ]
 };
 
-videos: [
-  {
-    heading: 'Wetland Wisdom — Lecture 01',
-    label: 'CORE LECTURES',
-    description: 'Introduction to Wetland Wisdom Series.',
-    video: '<iframe title="vimeo-player" src="https://player.vimeo.com/video/1238557670?h=b5fbb3529e" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>'
-  },
-  {
-    heading: 'Field Fridays — Episode 01',
-    label: 'FIELD VIDEOS',
     description: 'Exploring wetland science in the field.',
     video: 'PASTE YOUR ACTUAL VIMEO SHARE URL HERE'
   }
