@@ -39,7 +39,7 @@ gallery: [
     category: 'field',
     heading: 'Salt Marsh Fieldwork',
     caption: 'Field experiences in coastal wetland ecosystems.',
-    image: 'photos/AJ_saltmarsh.jpg',
+    image: 'photos/Aj_saltmarsh.jpg',
     alt: 'AJ in a salt marsh'
   },
   {
@@ -85,14 +85,14 @@ gallery: [
     category: 'outreach',
     heading: 'CPET Outreach',
     caption: 'Supporting science education and engaging with students.',
-    image: 'photos/CPETPhoto.jpg',
+    image: 'photos/CPETphoto.jpg',
     alt: 'AJ participating in STEM outreach'
   },
   {
     category: 'outreach',
     heading: 'Water Institute Ambassador',
     caption: 'Connecting with others through the University of Florida Water Institute.',
-    image: 'photos/Wlambassador.jpg',
+    image: 'photos/WIambassador.jpg',
     alt: 'AJ at a Water Institute event'
   },
   {
@@ -105,7 +105,7 @@ gallery: [
 ],
   videos: [
     { heading:'Wetland Wisdom Lectures', label:'CORE LECTURES', description:'Structured lessons on wetland foundations, hydrology, soils, and biogeochemistry.', video:'https://player.vimeo.com/video/1238557670?h=b5fbb3529e' },
-    { heading:'Field Fridays', label:'FIELD VIDEOS', description:'Field-based videos showing my wetland science and research in practice.', video:'https://vimeo.com/1239635324' },
+    { heading:'Field Fridays', label:'FIELD VIDEOS', description:'Field-based videos showing wetland science and research in practice.', video:'' },
     { heading:'More to Explore', label:'ADDITIONAL VIDEOS', description:'Other videos, demonstrations, and educational resources.', video:'' }
   ],
   
@@ -157,8 +157,3 @@ media: [
   }
   ]
 };
-
-    description: 'Exploring wetland science in the field.',
-    video: 'PASTE YOUR ACTUAL VIMEO SHARE URL HERE'
-  }
-],
