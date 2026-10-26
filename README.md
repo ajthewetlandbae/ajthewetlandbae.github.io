@@ -20,7 +20,7 @@ Open `content.js` in GitHub's built-in file editor and edit the values inside `S
 No need to upload content twice: **you can edit `content.js` and upload photos directly to the GitHub repository after the site is online**. You can also ask ChatGPT to make changes and upload a replacement file if you prefer.
 
 ## Publish on GitHub Pages
-1. Log in to GitHub and create a **public** repository exactly named `ajthewetlandbae.github.io` (if that is your final GitHub username).
+1. Log in to GitHub and create a **public** repository exactly named `ajthewetlandbae.github.io` 
 2. Upload the **contents of this folder**, including `index.html`, `styles.css`, `script.js`, `content.js`, `assets/`, and `photos/` into the repository root. Do **not** upload only the ZIP file.
 3. In the repository, go to **Settings → Pages**; choose **Deploy from a branch**, branch **main**, folder **/(root)**. Save.
 4. The public website address will ordinarily be `https://ajthewetlandbae.github.io/` after publishing. Check the live Pages settings for deployment status.
