@@ -226,3 +226,8 @@ img { max-width: 100%; display: block; }
   html { scroll-behavior: auto; }
   .btn { transition: none; }
 }
+
+/* Transparent AJ logo for the header — small, responsive, with AJ. fallback */
+.wordmark-logo { width: 60px; height: 60px; flex-shrink: 0; object-fit: contain; background: transparent; }
+.wordmark-logo[hidden], .wordmark-aj[hidden] { display: none !important; }
+@media (max-width: 760px) { .wordmark-logo { width: 46px; height: 46px; } }
