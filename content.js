@@ -157,3 +157,18 @@ media: [
   }
   ]
 };
+
+videos: [
+  {
+    heading: 'Wetland Wisdom — Lecture 01',
+    label: 'CORE LECTURES',
+    description: 'Introduction to Wetland Wisdom Series.',
+    video: '<iframe title="vimeo-player" src="https://player.vimeo.com/video/1238557670?h=b5fbb3529e" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>'
+  },
+  {
+    heading: 'Field Fridays — Episode 01',
+    label: 'FIELD VIDEOS',
+    description: 'Exploring wetland science in the field.',
+    video: 'PASTE YOUR ACTUAL VIMEO SHARE URL HERE'
+  }
+],
